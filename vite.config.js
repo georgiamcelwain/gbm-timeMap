@@ -1,3 +1,3 @@
 export default {
-    base: '/gbm-timMap/',
+    base: '/gbm-timeMap/',
 }
