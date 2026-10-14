@@ -26,7 +26,11 @@
       
       <era>AD</era>
     </date>
-    
+    <date type="end">
+      <year>2016</year>
+      
+      <era>AD</era>
+    </date>
     
     <description>Dear Data the book was published.</description>
     <lat>40.7128</lat>
